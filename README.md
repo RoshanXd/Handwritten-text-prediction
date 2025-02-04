@@ -1,5 +1,6 @@
 # Handwritten-text-prediction 
 PROJECT OVERVIEW 
+
 This project focuses primarily on OCR (Optical character recognition) to accurately identify
 and extract handwritten text from seemingly illegible prescription images 
 the model is trained to read key information labels like doctor's name , patient's name , date and time etc
